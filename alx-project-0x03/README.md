@@ -15,3 +15,9 @@ We will modify our index.tsx file to achieve this functionality
 # 3. Move your interfaces to the right directory
 
 Objectives: Clean up your code a bit, remember, it is always good to keep your code well organized. Group your files into the right directories.
+
+# 4. Resolve a 404 page not found
+
+Objectives: In the file-based routing system, each pathname has to correspond to a particular file that exists in the pages/ directory. In an event where any such pathname is used but not found in the pages directory. Your routing will resolve to a 404 page not found.
+
+This is a default behavior in Nextjs applications. The behavior can be overridden if you wish to have a Custom Error Page
