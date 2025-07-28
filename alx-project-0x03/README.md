@@ -11,3 +11,7 @@ Objectives: By default your project will include some tailwindcss configurations
 Objectives: Our App will have 3 additional mini apps. This can be accessible through imperative routing. Which means we need to use the Link component explicitly but by using useRouter Hook from next/router.
 
 We will modify our index.tsx file to achieve this functionality
+
+# 3. Move your interfaces to the right directory
+
+Objectives: Clean up your code a bit, remember, it is always good to keep your code well organized. Group your files into the right directories.
