@@ -5,3 +5,9 @@ Objective: In most applications, you will have multiple pages that share similar
 # 1. Importing Google fonts
 
 Objectives: By default your project will include some tailwindcss configurations. We can import a google font to be included in the global space of our tailwindcss. We will see how to do this in our global.css file.
+
+# 2. Setting up our landing page with Imperative routing
+
+Objectives: Our App will have 3 additional mini apps. This can be accessible through imperative routing. Which means we need to use the Link component explicitly but by using useRouter Hook from next/router.
+
+We will modify our index.tsx file to achieve this functionality
